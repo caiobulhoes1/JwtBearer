@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "w7hrWiENfWiYVFukBk69toDD8dluZG1p6F+mLr9jN48=",
+  "Source": "JwtBearer",
+  "BasePath": "_content/JwtBearer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
